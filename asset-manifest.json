@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.95beedc0.css",
+    "main.js": "/portfolio/static/js/main.b7f2bece.js",
+    "static/media/netflix-clone.png": "/portfolio/static/media/netflix-clone.ac8ce0fb60dd7f1498b5.png",
+    "static/media/learn.png": "/portfolio/static/media/learn.25501934eb0cace90d10.png",
+    "static/media/gericht-restaurant.png": "/portfolio/static/media/gericht-restaurant.a8f84bb0f2d2327f1a5a.png",
+    "static/media/audiofly.png": "/portfolio/static/media/audiofly.534370ffa1cb674c5824.png",
+    "static/media/laptop-wave.png": "/portfolio/static/media/laptop-wave.378adf0654d07369bfb9.png",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.a4919a39187072d19903.pdf",
+    "static/media/Meme-editor.png": "/portfolio/static/media/Meme-editor.20352a2f5c4c6112b48c.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.38443d97da68153f27c1.png",
+    "static/media/Mister-Bitcoin.png": "/portfolio/static/media/Mister-Bitcoin.57a0fa7858e6890a1b26.png",
+    "static/media/bg-texture.jpg": "/portfolio/static/media/bg-texture.3f5ed120720c965c6249.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.95beedc0.css.map": "/portfolio/static/css/main.95beedc0.css.map",
+    "main.b7f2bece.js.map": "/portfolio/static/js/main.b7f2bece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95beedc0.css",
+    "static/js/main.b7f2bece.js"
+  ]
+}
