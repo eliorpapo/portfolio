@@ -31,10 +31,13 @@ export const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://facebook.com' target='__blank'>
+        <a
+          href='https://www.facebook.com/profile.php?id=100017415720086'
+          target='__blank'
+        >
           <FaFacebookF />
         </a>
-        <a href='https://instegram.com' target='__blank'>
+        <a href='https://www.instagram.com/eliorpapo/' target='__blank'>
           <FiInstagram />
         </a>
       </div>
