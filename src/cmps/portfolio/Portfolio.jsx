@@ -34,12 +34,12 @@ export const Portfolio = () => {
       live: 'https://eliorpapo.github.io/netflix-clone/',
     },
 
-    {
-      desc: 'Weather App - Check the weather around the world.',
-      img: weather,
-      git: 'https://github.com/eliorpapo/elior-papo-24-3-22.git',
-      live: 'https://eliorpapo.github.io/elior-papo-24-3-22/#/',
-    },
+    // {
+    //   desc: 'Weather App - Check the weather around the world.',
+    //   img: weather,
+    //   git: 'https://github.com/eliorpapo/elior-papo-24-3-22.git',
+    //   live: 'https://eliorpapo.github.io/elior-papo-24-3-22/#/',
+    // },
 
     {
       desc: 'Meme Editor - Create your own Memes Using canvas',
