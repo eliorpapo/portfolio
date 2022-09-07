@@ -15,7 +15,7 @@ export const Portfolio = () => {
     },
 
     {
-      desc: 'Jobify - Simple way to keep your job application in order',
+      desc: 'Jobify - Simple way to keep your job application in order. For full experience login with: user - demo@gmail.com password - 123',
       img: jobify,
       git: 'https://github.com/eliorpapo/jobify',
       live: 'https://jobify-elior.herokuapp.com/',
