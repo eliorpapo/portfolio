@@ -4,7 +4,7 @@ import Bitcoin from '../../assets/Mister-Bitcoin.png'
 import gericht from '../../assets/gericht-restaurant.png'
 import netflix from '../../assets/netflix-clone.png'
 import weather from '../../assets/weather-app.png'
-import Meme from '../../assets/Meme-editor.png'
+import jobify from '../../assets/jobify.png'
 export const Portfolio = () => {
   const items = [
     {
@@ -15,10 +15,10 @@ export const Portfolio = () => {
     },
 
     {
-      desc: 'Mr.Bitcoin - Bitcoin share App. People can send bitcoin to other contacts.',
-      img: Bitcoin,
-      git: 'https://github.com/eliorpapo/Mister-Bitcoin.git',
-      live: 'https://eliorpapo.github.io/Mister-Bitcoin/',
+      desc: 'Jobify - Simple way to keep your job application in order',
+      img: jobify,
+      git: 'https://github.com/eliorpapo/jobify',
+      live: 'https://jobify-elior.herokuapp.com/',
     },
 
     {
@@ -34,18 +34,18 @@ export const Portfolio = () => {
       live: 'https://eliorpapo.github.io/netflix-clone/',
     },
 
-    // {
-    //   desc: 'Weather App - Check the weather around the world.',
-    //   img: weather,
-    //   git: 'https://github.com/eliorpapo/elior-papo-24-3-22.git',
-    //   live: 'https://eliorpapo.github.io/elior-papo-24-3-22/#/',
-    // },
+    {
+      desc: 'Weather App - Check the weather around the world.',
+      img: weather,
+      git: 'https://github.com/eliorpapo/WeatherApp',
+      live: 'https://eliorpapo.github.io/WeatherApp/',
+    },
 
     {
-      desc: 'Meme Editor - Create your own Memes Using canvas',
-      img: Meme,
-      git: 'https://github.com/eliorpapo/meme-editor.git',
-      live: 'https://eliorpapo.github.io/meme-editor/',
+      desc: 'Mr.Bitcoin - Bitcoin share App. People can send bitcoin to other contacts.',
+      img: Bitcoin,
+      git: 'https://github.com/eliorpapo/Mister-Bitcoin.git',
+      live: 'https://eliorpapo.github.io/Mister-Bitcoin/',
     },
   ]
   return (
